@@ -23,8 +23,18 @@ button {
   cursor: pointer;
 }
 
-button.primary {
+button.stocked {
   background-color: var(--green);
+  color: white;
+}
+
+button.outofstock {
+  background-color: rgb(130, 130, 130);
+  color: white;
+}
+
+button.delete:hover{
+  background-color: red;
   color: white;
 }
 

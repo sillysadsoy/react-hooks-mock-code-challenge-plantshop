@@ -4,43 +4,71 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 15.99,
+      "stocked": true
     },
     {
       "id": 2,
       "name": "ZZ Plant",
       "image": "./images/zz-plant.jpg",
-      "price": 25.98
+      "price": 25.98,
+      "stocked": false
     },
     {
       "id": 3,
       "name": "Pilea peperomioides",
       "image": "./images/pilea.jpg",
-      "price": 5.99
+      "price": 5.99,
+      "stocked": true
     },
     {
       "id": 4,
       "name": "Pothos",
       "image": "./images/pothos.jpg",
-      "price": 12.11
+      "price": 12.11,
+      "stocked": true
     },
     {
       "id": 5,
       "name": "Jade",
       "image": "./images/jade.jpg",
-      "price": 10.37
+      "price": 10.37,
+      "stocked": true
     },
     {
       "id": 6,
       "name": "Monstera Deliciosa",
       "image": "./images/monstera.jpg",
-      "price": 25.99
+      "price": 25.99,
+      "stocked": true
     },
     {
       "id": 7,
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
-      "price": 55
+      "price": 55,
+      "stocked": true
+    },
+    {
+      "name": "Monstera Deliciosa (XL)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyHwGMlgiDs0_r3OHX-vWDXmYncO0ok15Jik9f8AMteofYdwhHqGwecUE9NRLAB7dcS0WR9x80&usqp=CAc",
+      "price": 57,
+      "id": 8,
+      "stocked": true
+    },
+    {
+      "name": "Artificial Palm Tree",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6CqGLQ4ogmRGBRTz_F5B6gxasuOSnAT509gwy5lF46AhPOLOoC3wqpREbTTfdbeBbNpzVYTEp&usqp=CAc",
+      "price": 244.99,
+      "id": 9,
+      "stocked": true
+    },
+    {
+      "name": "Fiddle Leaf Fig (XL)",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmSLZNoTHykzHTpVYtpMkEI-dIgrJ3v5ryzoltFH_ycRxfkqT37D2aLXYHHBzR6ZdSkQhaYTkp&usqp=CAc",
+      "price": 299,
+      "id": 10,
+      "stocked": true
     }
   ]
 }
